@@ -1,0 +1,14 @@
+t = int(input().strip()) 
+list1=[]
+for _ in range(t):
+    list1.append(int(input().strip()))
+list2=[]
+for i in list1:
+    temp_list=[]
+    for j in range(2,i+1):
+        if i%j==0:
+            temp_list.append(j)
+            i=i//j
+    list2.append(max(temp_list))
+for i in list2:
+    print(i)

@@ -1,0 +1,14 @@
+for j in range(int(input())):
+    n = int(input())
+    total_sum = 2
+    a = 1
+    b = 2
+    if n !=2:
+        while True:
+            c = a + b
+            if c >= n:
+                break
+            if c % 2 == 0:
+                total_sum += c
+            a, b = b, c
+        print(total_sum)
