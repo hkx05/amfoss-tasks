@@ -6,8 +6,13 @@ body {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    border-radius: 20px;
+    border-radius: 30px;
     background-color: #FFFF;
+}
+
+.container {
+    background-size: cover; /* Ensures the background image covers the entire container */k
+    background-repeat: no-repeat; /* Prevents repeating the background image */
 }
 
 p {
@@ -50,7 +55,7 @@ sup {
     text-align: center;
 }
 
-/* Improved Search Box Styles */
+
 .search-box {
     display: flex;
     flex-direction: row;
@@ -62,15 +67,18 @@ sup {
     width: 200px;
     padding: 10px;
     border: none;
-    border-radius: 5px;
+    border-radius: 15px;
     font-size: 16px;
+    background-color: #00c3ff;
 }
-
+#search-input::placeholder {
+    color: #ffffff;
+}
 #search-button {
     background-color: #00c3ff;
     color: #ffffff;
     border: none;
-    border-radius: 5px;
+    border-radius: 15px;
     padding: 10px 20px;
     margin-left: 10px;
     cursor: pointer;
