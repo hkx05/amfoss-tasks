@@ -21,11 +21,11 @@ In my openion, this amfoss praveshan is probably the most challenging I did afte
 [Task-01](https://github.com/hkx05/amfoss-tasks/tree/master/task-01)|Terminal Wizard|Completed
 [Task-02](https://github.com/hkx05/amfoss-tasks/tree/master/task-02)|Lessgo Hugo|Completed
 [Task-03](https://github.com/hkx05/amfoss-tasks/tree/master/task-03)|Hello World|Completed
-[Tasl-04]
+[Tasl-04](https://github.com/hkx05/amfoss-tasks/tree/master/task-04)|Competitive programming|Partially Completed
 [Task-05](https://github.com/hkx05/amfoss-tasks/tree/master/task-05)|Hypertext Mockup Langauge|Completed
-[Task-06]    |Cricket Vault|Completed
+[Task-06](https://github.com/hkx05/amfoss-tasks/tree/master/task-06)|Cricket Vault|Completed
 [Task-07](https://github.com/hkx05/amfoss-tasks/tree/master/task-07)|AK-47℃|Completed
-[Task-08]()|Poke-Search!|Completed
+[Task-08](https://github.com/hkx05/amfoss-tasks/tree/master/task-08)|Poke-Search!|Completed
 [Task-11](https://github.com/hkx05/amfoss-tasks/tree/master/task-11)|TinkerCAD|Completed
 [Task-13](https://github.com/hkx05/amfoss-tasks/tree/master/task-13)|Vim|Completed
 [Task-14](https://github.com/hkx05/amfoss-tasks/tree/master/task-14)|Bandit|Completed
