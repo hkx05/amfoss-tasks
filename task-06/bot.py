@@ -33,4 +33,4 @@ async def on_message(message):
         if message.content.startswith('/help'):
             await message.channel.send('Commands :\n/livescore - get the livescore.\n/generate - get the csv of the previous livescores')
   
-client.run('MTE1NDc5ODUzMDE4NDA5NzgyMw.Grj0ip.DzM0aFdCkiImCH_zskh8zUAkwVNMxL-bP5IK0c')
+client.run('')
